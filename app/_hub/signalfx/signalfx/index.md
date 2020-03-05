@@ -20,7 +20,7 @@ license_url: https://github.com/signalfx/kong-plugin-signalfx/blob/master/LICENS
 
 privacy_policy_url: https://signalfx.com/privacy-policy/
 
-terms_of_service_url: https://signalfx.com/terms-and-conditions/
+terms_of_service_url: https://Splunk.com/GeneralTerms
 
 kong_version_compatibility:
   community_edition:
